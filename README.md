@@ -1,4 +1,4 @@
 angular-dropzone
 ================
 
-Angular directive for Dropzone.js
+Angular directive for Dropzone.js (http://www.dropzonejs.com/)
