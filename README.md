@@ -6,7 +6,7 @@ Angular directive for Dropzone.js (http://www.dropzonejs.com/)
 
 How to use:
 
-`<form action="/upload" class="dropzone" drop-zone id="ark-dropzone"></form>`
+`<form action="/upload" class="dropzone" drop-zone id="file-dropzone"></form>`
 
 More Info:
 
